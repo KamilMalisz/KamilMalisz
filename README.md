@@ -1,17 +1,17 @@
 ## Hi there 👋
 ### About Me
-🎓 Studying Applied Computer Science at Jagiellonian University and Cybersecurity at University of the National Education Commission. <br>
+🎓 Studying Applied Computer Science at  University Silesia. <br>
 💻 Passionate about Java, automations, algorithms and problem solving. <br>
 🌱 Dedicated to continuous learning and mastering new development tools.
 
 ### 💻 Proramming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=,java,python" />
+  <img src="https://skillicons.dev/icons?i=,java,js,python" />
 </p>
 
 ### 🛠 Tools and Work Environment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,linux,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,linux,github,mysql,azure,wordpress" />
 </p>
 
 <picture>
