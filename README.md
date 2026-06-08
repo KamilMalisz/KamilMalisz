@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 🧔🏻
 ### About Me
 🎓 Studying Applied Computer Science at  University Silesia. <br>
 💻 Passionate about Java, automations, algorithms and problem solving. <br>
@@ -6,7 +6,7 @@
 
 ### 💻 Proramming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=,java,js,python" />
+  <img src="https://skillicons.dev/icons?i=java,js,python" />
 </p>
 
 ### 🛠 Tools and Work Environment
