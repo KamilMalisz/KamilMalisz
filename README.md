@@ -1,4 +1,7 @@
 ## Hello there 🧔🏻
+
+![](https://komarev.com/ghpvc/?username=KamilMalisz&label=PROFILE+VIEWS)
+
 ### About Me
 🎓 Studying Applied Computer Science at  University Silesia. <br>
 💻 Passionate about Java, automations, algorithms and problem solving. <br>
