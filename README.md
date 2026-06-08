@@ -6,7 +6,7 @@
 
 ### 💻 Proramming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?,java,python" />
+  <img src="https://skillicons.dev/icons?i=,java,python" />
 </p>
 
 ### 🛠 Tools and Work Environment
@@ -20,9 +20,9 @@
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/KamilMalisz/KamilMalisz/output/github-snake.svg">
 </picture>
 
-<!--
-![Języki programowania](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aszczi&theme=dark)
 
+![Języki programowania](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KamilMalisz&theme=dark)
+<!--
 ### Moje technologie:
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,py,git&theme=dark)](https://skillicons.dev)
 
