@@ -6,7 +6,7 @@
 
 ### 💻 Proramming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+  <img src="https://skillicons.dev/icons?,java,python" />
 </p>
 
 ### 🛠 Tools and Work Environment
